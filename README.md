@@ -29,8 +29,11 @@ using the Rain in Australia dataset (145,460 records, 49 weather stations).
 
 ## 📁 Repository Structure
 ├── notebook/   → Jupyter Notebook (.ipynb)
+
 ├── report/     → IEEE Project Report (.docx)
+
 ├── data/       → Dataset link (weatherAUS.csv)
+
 └── orange/     → Orange unsupervised workflow (.ows)
 
 ---
