@@ -42,7 +42,10 @@ using the Rain in Australia dataset (145,460 records, 49 weather stations).
 - Pandas | NumPy | Matplotlib | Seaborn
 
 ---
+## 📓 View Notebook
+[![Open in nbviewer](https://img.shields.io/badge/View-nbviewer-orange)](https://nbviewer.org/github/maryanmudaffar/IT9201-Rain-Prediction/blob/main/Rain_Prediction_IT9201_v5_FINAL.ipynb)
 
+---
 ## 📊 Dataset
 **Source:** [Kaggle — Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)  
 **Origin:** Australian Bureau of Meteorology
