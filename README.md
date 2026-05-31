@@ -28,3 +28,21 @@ using the Rain in Australia dataset (145,460 records, 49 weather stations).
 ---
 
 ## 📁 Repository Structure
+├── notebook/   → Jupyter Notebook (.ipynb)
+├── report/     → IEEE Project Report (.docx)
+├── data/       → Dataset link (weatherAUS.csv)
+└── orange/     → Orange unsupervised workflow (.ows)
+
+---
+
+## 🛠️ Tools & Libraries
+- Python 3.13 | Scikit-learn 1.7.2 | XGBoost 3.2.0
+- SHAP 0.51.0 | LIME 0.2.0.1
+- Orange 3 (no-code unsupervised analysis)
+- Pandas | NumPy | Matplotlib | Seaborn
+
+---
+
+## 📊 Dataset
+**Source:** [Kaggle — Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)  
+**Origin:** Australian Bureau of Meteorology
